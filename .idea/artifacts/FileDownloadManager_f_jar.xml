@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileDownloadManager_f:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileDownloadManager_f_jar</output-path>
+    <root id="archive" name="FileDownloadManager_f.jar">
+      <element id="module-output" name="FileDownloadManager_f" />
+    </root>
+  </artifact>
+</component>
